@@ -1,0 +1,1 @@
+## Veri yedekleme yazılımları hakkında nasıl yapılır belgeleri için açılmış bir depodur.
